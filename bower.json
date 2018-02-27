@@ -1,0 +1,32 @@
+{
+  "name": "prowell-assets",
+  "version": "0.0.1",
+  "description": "Collection of assets for prowell group sites.",
+  "homepage": "https://prowell.media",
+  "license": "MIT",
+  "authors": [
+    "Mauricio Caballero",
+    "Ricardo Máximo",
+    "Raúl Salinas",
+    "Irving Arroyo",
+    "Gustavo Espinoza"
+  ],
+  "main": [
+    "./js/*",
+    "./css/*"
+  ],
+  "keywords": [
+    "prowell"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prowellmedia/assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prowellmedia/assets/issues"
+  },
+  "ignore": [
+    "README.md",
+    "lib"
+  ]
+}
