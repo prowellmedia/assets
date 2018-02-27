@@ -13,6 +13,7 @@
   ],
   "main": [
     "js/ontwice.js",
+    "js/test.js",
     "css/ontwice.css"
   ],
   "keywords": [
@@ -25,11 +26,15 @@
   "bugs": {
     "url": "https://github.com/prowellmedia/assets/issues"
   },
+  "dependencies": {
+    "jquery": ">= 1.7.2"
+  },
   "ignore": [
-    "README.md",
-    "lib",
     "**/.*",
+    "node_modules",
+    "bower_components",
     "test",
-    "tests"
+    "demo",
+    "lib"
   ]
 }
