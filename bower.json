@@ -12,8 +12,8 @@
     "Gustavo Espinoza"
   ],
   "main": [
-    "./js/*",
-    "./css/*"
+    "./js/ontwice.js",
+    "./css/ontwice.css"
   ],
   "keywords": [
     "prowell"
